@@ -6,7 +6,11 @@
 python库：matplotlib, pillow, pytesseract
 
 系统库 tesseract-ocr
+
+
 Mac 安装方法：brew install tesseract
+
+
 Windows 安装方法：请自行查询
 
 使用方法：
